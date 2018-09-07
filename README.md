@@ -13,6 +13,8 @@ This is why in forensic terms a simple backup is not enough.
 3. Data recovery tools look into unallocated sectors to find the files that were thought to be lost. They reach out <br />
 to a very low level, below all the abstraction layers.
 
+![df tools logo](./pics/df.png)
+
 ## Forensic Copy
 1. [DC3DD](./dc3dd.md)
 2. [DD](https://wiki.archlinux.org/index.php/disk_cloning)
