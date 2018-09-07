@@ -14,7 +14,7 @@ This is why in forensic terms a simple backup is not enough.
 to a very low level, below all the abstraction layers.
 
 <p align="center">
-    ![df tools logo](./pics/df.png)
+    <img src="./pics/df.png">
 </p>
 
 ## Forensic Copy
