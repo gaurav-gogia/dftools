@@ -13,7 +13,9 @@ This is why in forensic terms a simple backup is not enough.
 3. Data recovery tools look into unallocated sectors to find the files that were thought to be lost. They reach out <br />
 to a very low level, below all the abstraction layers.
 
-![df tools logo](./pics/df.png)
+<p align="center">
+    ![df tools logo](./pics/df.png)
+</p>
 
 ## Forensic Copy
 1. [DC3DD](./dc3dd.md)
