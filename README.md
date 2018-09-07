@@ -1,8 +1,18 @@
 # DFTOOLS
 A curated list of Digital Forensics Tools with some useful links & usage.
-
 To get information about any other tool please visit the [Forensic Wiki](https://forensicswiki.org).
 
+## Some Important Concepts
+1. Digital Forensics: An applicaiton of science to uncover facts, solve crime by **acquiring** the evidence <br />
+**analyzing** the evidence and finally prepping it for any court of law. All must be done while maintaining <br />
+the [chain of custody](https://digital-forensics.sans.org/blog/tags/chain-of-custody) and **integrity**.
+
+2. Forensic Image/Copy: This term refers to a **bit perfect** copy/clone of any storage device.<br/>
+It is important to understand that any forensic cloning tool worth it's salt would ensure integrity of evidence. <br />
+This is why in forensic terms a simple backup is not enough.
+
+3. Data recovery tools look into unallocated sectors to find the files that were thought to be lost. They reach out <br />
+to a very low level, below all the abstraction layers.
 
 ## Forensic Copy
 1. [DC3DD](./dc3dd.md)
