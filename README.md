@@ -12,7 +12,7 @@ To get information about any other tool please visit the [Forensic Wiki](https:/
 
 ## Data Recovery/Carving
 1. [Foremost](./foremost.md)
-2. [Bulk Extractor](./bulk_extractor)
+2. [Bulk Extractor](./bulk_extractor.md)
 
 ## Multi-Purpose Kits
 1. [Autopsy](./autopsy.md)
