@@ -14,5 +14,5 @@ To get information about any other tool please visit the [Forensic Wiki](https:/
 1. [Foremost](./foremost.md)
 2. [Bulk Extractor](./bulk_extractor)
 
-## MultiPurpose Kits
+## Multi-Purpose Kits
 1. [Autopsy](./autopsy.md)
