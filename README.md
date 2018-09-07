@@ -24,4 +24,4 @@ to a very low level, below all the abstraction layers.
 2. [Bulk Extractor](./bulk_extractor.md)
 
 ## Multi-Purpose Kits
-1. [Autopsy](./autopsy.md)
+1. [Autopsy](https://www.sleuthkit.org/autopsy/)
