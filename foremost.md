@@ -1,8 +1,8 @@
 # Foremost
-A forensic data recovery/carving tool that recovers deleted files from a disk image.
+A forensic data recovery/carving tool that recovers deleted files from a disk image.<br/>
 For more information please visit [this site](https://forensicswiki.org/wiki/Foremost).
 
-Foremostis *nix based.
+Foremost is *nix based.
 
 ## Usage
 1. `foremost -v -o <output dir> -i <disk image path>`
