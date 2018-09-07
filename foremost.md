@@ -5,7 +5,7 @@ For more information please visit [this site](https://forensicswiki.org/wiki/For
 Foremost is *nix based.
 
 ## Usage
-1. `foremost -v -o <output dir> -i <disk image path>`
+1. `foremost -v -o <output dir> -i <disk image path>`<br/>
 Above command will fire a verbose mode of foremost.
 
 ## Sample Output
