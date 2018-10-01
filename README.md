@@ -29,3 +29,11 @@ to a very low level, below all the abstraction layers.
 
 ## Multi-Purpose Kits
 1. [Autopsy](https://www.sleuthkit.org/autopsy/)
+
+## Contribution Guidelines
+1. Fork the repository.
+2. Clone it.
+3. Create a new file explaining a digital forensic tool, if pics are involved please upload them in pics folder and link accordingly.
+4. Make an entry about that tool in the main Readme File(this file).
+5. Send PR.
+6. Star this Repo
