@@ -30,6 +30,9 @@ to a very low level, below all the abstraction layers.
 ## Multi-Purpose Kits
 1. [Autopsy](https://www.sleuthkit.org/autopsy/)
 
+## Metadata analysis
+1. [Exiftool](./exiftool.md)
+
 ## Contribution Guidelines
 1. Fork the repository.
 2. Clone it.
