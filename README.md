@@ -38,6 +38,9 @@ to a very low level, below all the abstraction layers.
 #### 📊 Metadata analysis
 - [Exiftool](./exiftool.md)
 
+#### 📟 Network Forensic Analysis Tool (NFAT)
+-[Xplico](http://www.xplico.org/about)
+
 #### :octocat: Contribution Guidelines
 1. Fork the repository.
 2. Clone it.
