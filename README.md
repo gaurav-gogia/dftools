@@ -31,6 +31,8 @@ to a very low level, below all the abstraction layers.
 #### ♻️ Data Recovery/Carving
 - [Foremost](./foremost.md)
 - [Bulk Extractor](./bulk_extractor.md)
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
+- [Recuva](https://www.ccleaner.com/recuva)
 
 #### 🈹 Multi-Purpose Kits
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
