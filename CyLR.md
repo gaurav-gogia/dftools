@@ -6,6 +6,7 @@ CyLR is a live response collection tool that can be used on OS platforms windows
 
 # Sample Output 
 CyLR.exe --help
+
 CyLR Version 2.1.0.0
 
 Usage: CyLR [Options]... [Files]...
