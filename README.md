@@ -38,6 +38,7 @@ to a very low level, below all the abstraction layers.
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
 - [SIFT(Sans Investigative Forensic Toolkit)](https://digital-forensics.sans.org/community/downloads/#overview)
 - [CyLR](./CyLR.md)
+- [KAPE](https://www.kroll.com/en/services/cyber-risk/investigate-and-respond/kroll-artifact-parser-extractor-kape)
 
 #### 📊 Metadata analysis
 - [Exiftool](./exiftool.md)
