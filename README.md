@@ -39,6 +39,7 @@ to a very low level, below all the abstraction layers.
 - [SIFT(Sans Investigative Forensic Toolkit)](https://digital-forensics.sans.org/community/downloads/#overview)
 - [CyLR](./CyLR.md)
 - [KAPE](https://www.kroll.com/en/services/cyber-risk/investigate-and-respond/kroll-artifact-parser-extractor-kape)
+- [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
 
 #### 📊 Metadata analysis
 - [Exiftool](./exiftool.md)
