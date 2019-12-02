@@ -33,6 +33,7 @@ to a very low level, below all the abstraction layers.
 - [Bulk Extractor](./bulk_extractor.md)
 - [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)
 - [Recuva](https://www.ccleaner.com/recuva)
+- [Scalpel](https://github.com/sleuthkit/scalpel)
 
 #### 🈹 Multi-Purpose Kits
 - [Autopsy](https://www.sleuthkit.org/autopsy/)
